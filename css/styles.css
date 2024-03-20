@@ -559,7 +559,7 @@ img {
   background-color: #31d0aa;
 }
 
-.footer-form {
+.footer-email-label {
   display: flex;
   gap: 24px;
 }
@@ -575,6 +575,7 @@ img {
   line-height: 2;
   letter-spacing: 0.04em;
   color: #fff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 .footer-input::placeholder {
